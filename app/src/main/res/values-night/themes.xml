@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-
     <style name="Theme.NoteApp" parent="android:Theme.Material.Light.NoActionBar">
-        <item name="android:statusBarColor">@color/blue_700</item>
+        <item name="android:statusBarColor">@color/blue_200</item>
     </style>
 </resources>
